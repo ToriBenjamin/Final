@@ -75,6 +75,16 @@ h3 {
   padding-top: 3rem;
   padding-bottom: 2rem;
 }
+
+h4 {
+  font-size: 150%;
+  color: #5E2993;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 2rem;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+}
+
 p {
   padding-left: 2rem;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -98,4 +108,61 @@ footer {
   background-color: #3f146b;
   color: white;
   font-size: 80%;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
 }
+
+footer a {
+  font-size: 200%;
+  color: white;
+  text-decoration: none;
+
+}
+
+footer a:hover {
+  color:#cd9cff
+}
+
+.design {
+  text-align: center;
+}
+
+.sponge {
+  text-align: center;
+
+}
+
+.content {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-left: 15rem;
+  padding-right: 15rem;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.4;
+
+}
+
+.paragraph {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-left: 15rem;
+  padding-right: 15rem;
+  line-height: 1.4;
+  padding-top: 1rem;
+  padding-bottom: 10rem;
+}
+
+.stephen {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  line-height: 1.4;
+  padding-top: 1rem;
+  padding-bottom: 10rem;
+}
+
+.inspo {
+  display: flex;
+}
+
+
+  
+
+
